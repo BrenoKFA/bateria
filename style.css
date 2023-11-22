@@ -33,7 +33,8 @@ h1 {
     font-size: 30px;
     font-weight: bold;
 }
-.key.active {
+
+.key .active {
     border: 2px solid #FF0;
     color: #FF0;
 }
